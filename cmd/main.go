@@ -1,4 +1,4 @@
-package main
+package cmd
 
 import (
 	"github.com/andrelmm/imersao-fs-fc/codepix-go/application/grpc"
